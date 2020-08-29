@@ -1,0 +1,9 @@
+﻿namespace GConsole
+{
+    struct CanvasOptions
+    {
+
+
+
+    }
+}
